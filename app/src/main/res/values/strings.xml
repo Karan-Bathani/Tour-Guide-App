@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="history_1">Lakshmi Vilas Palace</string>                                <string name="address_1">J N Marg, Moti Baug, Vadodara, Gujarat 390001</string>
+    <string name="history_2"> Meer Nawab Shah Saiyed Qutubuddin Tomb</string>             <string name="address_2">ONGC, Danteshwar, Vadodara, Gujarat 390004</string>
+    <string name="history_3">Mandvi Gate</string>                                         <string name="address_3">Mandvi Cir, Sulemani Pol, Mandvi, Vadodara, Gujarat 390001</string>
+    <string name="history_4">Kirti Mandir</string>                                        <string name="address_4">Kirti Mandir, Kothi Rd, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390001</string>
+    <string name="history_5">Kirti Stambh</string>                                        <string name="address_5">Kirti stambh circle, Palace Rd, Vadodara, Gujarat 390001</string>
+    <string name="history_6">Ambedkar Chowk</string>                                      <string name="address_6">C-3/375, Rajguru Mahadev Marg, Bakrawadi, Navapura, Vadodara, Gujarat 390001</string>
+    <string name="history_7">Navlakhi Stepwell</string>                                   <string name="address_7">Palace Road, Jawaharlal Nehru Marg, Near Laxmi Vilas Palace, Moti Baug, Vadodara, Gujarat 390001</string>
+    <string name="history_8">Baroda Museum And Picture Gallery</string>                   <string name="address_8">University Rd, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390018</string>
+    <string name="history_9">Shiv Mahal Palace</string>                                   <string name="address_9">Old Padra Rd, Chikuwadi, Haripura, Vadodara, Gujarat 390020</string>
+    <string name="history_10">Sayaji Baug Zoo</string>                                     <string name="address_10">Vinoba Bhave Rd, Near Kala Ghoda, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390005</string>
+
+    <string name="attraction_1">Maharaja Fateh Singh Museum</string>                        <string name="attraction_address_1">Jawaharlal Nehru Marg, Navapura, Vadodara, Gujarat 390001</string>
+    <string name="attraction_2">Sindhrot Check Dam</string>                                 <string name="attraction_address_2">Mahi River</string>
+    <string name="attraction_3">Sacred Heart Church</string>                                <string name="attraction_address_3">kaladarshan char rasta, road, Waghodia, Vadodara, Gujarat 390025</string>
+    <string name="attraction_4">Sur Sagar Lake</string>                                     <string name="attraction_address_4">Sur Sagar Lake, Mandvi, Vadodara, Gujarat 390001</string>
+    <string name="attraction_5">Nature Education Park</string>                              <string name="attraction_address_5">Vadodara, Gujarat 391101</string>
+    <string name="attraction_6">Tapovan Mandir</string>                                     <string name="attraction_address_6">Gujarat Refinery Rd, Sector 1, Petrochemical Twp, Undera, Vadodara, Gujarat 391310</string>
+    <string name="attraction_7">Baobab Adansonia Digitata. Heritage tree</string>           <string name="attraction_address_7">Vadodara, Gujarat 391440</string>
+    <string name="attraction_8">EME Temple</string>                                         <string name="attraction_address_8">NR. EME TEMPLE, Fatehgunj, Gujarat 390002</string>
+    <string name="attraction_9">Surya Narayan Temple</string>                               <string name="attraction_address_9">Kharivav Rd, Opp G P O, Raopura, Jambubet, Vadodara, Gujarat 390001</string>
+    <string name="attraction_10">Sayaji Baug Health Museum</string>                         <string name="attraction_address_10">Sayajibaug Rd, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390001</string>
+
+    <string name="streetfood_1">Tasty Vadapav</string>                                    <string name="streetfood_address_1">1st Floor Braj Complex, Nizampura Main Rd, Opp. Ghelani Petrol Pump, Vadodara, Gujarat 390002</string>
+    <string name="streetfood_2">Amritsari Kulcha</string>                                 <string name="streetfood_address_2"> Commercial Centre, 02, Vadodara, LG Nagar, Pensionpura, Nizampura, Vadodara, Gujarat 390002</string>
+    <string name="streetfood_3">Havmor Restaurant</string>                                <string name="streetfood_address_3">Plot No. 56, Old Padra Rd, Near Rock Star Circle, Punit Nagar, Society, Vadodara, Gujarat 390007</string>
+    <string name="streetfood_4">BigBite Golgappa</string>                                 <string name="streetfood_address_4">01 Beside vidya vikas school, opp. Hari Apartment, nr. balaji hospital, Ellora Park, Subhanpura, Vadodara, 390023</string>
+    <string name="streetfood_5">RAJU OMLET</string>                                       <string name="streetfood_address_5">Mahalaxmi Apartment S/4, Muktanand Cir, opp. Bank Of Baroda, Karelibagh, Vadodara, Gujarat 390018</string>
+    <string name="streetfood_6">Kolkata street kitchen</string>                           <string name="streetfood_address_6">Blue Diamond Complex, B-6, Near Petrol pump, Fatehgunj, Vadodara, Gujarat 390002</string>
+    <string name="streetfood_7">Chaat Street</string>                                     <string name="streetfood_address_7">Pancharatna Apartment, No. 18 to 20 Subhanpura Road Near, Subhanpura, Vadodara, Gujarat 390023</string>
+    <string name="streetfood_8">Honest</string>                                           <string name="streetfood_address_8">Ground Galaxy Complex Sarabhai Road, Opp, Sarabhai Main Gate, Vadodara, Gujarat 390007</string>
+    <string name="streetfood_9">Moneez</string>                                           <string name="streetfood_address_9"> Shopping Center, ground floor, shop no- 14 &amp; 15, RC Dutt Rd, near Ambedkar Circle, Vadodara, Gujarat 390007</string>
+    <string name="streetfood_10">Jagdish Foods Pvt. Ltd.</string>                          <string name="streetfood_address_10">Taksh Galaxy NH 8 Next to L&amp;T Knowledge City Waghodia Chowkdi, Gujarat 390019</string>
+
+    <string name="interest_1">S-Cube Waterpark And Gujarat Funworld</string>                          <string name="interest_address_1">Ajwa, OPP. VRINDAVAN GARDEN, Vadodara, Gujarat 391510</string>
+    <string name="interest_2">Meer Nawab Shah Saiyed Qutubuddin Tomb</string>                         <string name="interest_address_2">ONGC, Danteshwar, Vadodara, Gujarat 390004</string>
+    <string name="interest_3">Nimeta Garden</string>                                                  <string name="interest_address_3">SH 63, Gujarat 391510</string>
+    <string name="interest_4">Aatapi Wonderland</string>                                              <string name="interest_address_4">Vadodara, Gujarat 391510</string>
+    <string name="interest_5">Sardar Patel Planetarium</string>                                       <string name="interest_address_5">Gate No. 1, Kala Ghoda Cir, Dak Bunglaw, Sayaji Baug, Vadodara, Gujarat 390005</string>
+    <string name="interest_6">BAPS Shri Swaminarayan Mandir</string>                                  <string name="interest_address_6"> Yagnapurushdas Marg, Narayanwadi, Atladara, Vadodara, Gujarat 390012</string>
+    <string name="interest_7">Gujarat Fun World</string>                                              <string name="interest_address_7">Ajwat Nimeeta, Road, Vadodara, Gujarat 390019</string>
+    <string name="interest_8">The Gaekwad Baroda Golf Club</string>                                   <string name="interest_address_8">Gate 3 , Moti Baug Palace, J .N.Marg,, Vadodara, Gujarat 390001</string>
+    <string name="interest_9">Surya Narayan Temple</string>                                           <string name="interest_address_9">Kharivav Rd, Opp G P O, Raopura, Jambubet, Vadodara, Gujarat 390001</string>
+    <string name="interest_10">Motibaug Palace</string>                                                <string name="interest_address_10">Palace Rd, Shiyabaug, Kevdabaug, Vadodara, Gujarat 390001</string>
+    <string name="history">History</string>
+
+    <string name="attractions">Attractions</string>
+    <string name="interest">Places Of Interests</string>
+    <string name="streetfood">Street Food</string>
+
+</resources>
